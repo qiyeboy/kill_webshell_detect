@@ -1,0 +1,2 @@
+# kill_webshell_detect
+总结了免杀webshell的方法论
